@@ -1,6 +1,5 @@
-# BE-Project-grp-16
+# Demystification of Neural Networks through Explainable AI
 
-Project Title: Demystification of Neural Networks through Explainable AI
 Introduction:
 In recent years, neural networks have demonstrated remarkable capabilities in various fields, ranging from image recognition to natural language processing. However, the complexity and "black-box" nature of neural networks often pose challenges in understanding their decision-making processes, hindering their widespread adoption in critical applications. To address this challenge, our project aims to demystify neural networks using Explainable Artificial Intelligence (XAI) techniques.
 Project Description:
